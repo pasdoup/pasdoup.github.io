@@ -1,0 +1,28 @@
+.header {
+    font-size: 20px;
+    font-weight: bold;
+    color: #f2f2f2;
+    background-color: rgb(30, 138, 150);
+}
+
+.title  {
+    text-align: center; 
+    width: 100%;
+    height: 100%;
+    padding: 14px 10px ;
+    cursor: pointer;
+}
+
+.menu {
+    background-color: rgb(27, 94, 101);
+    display: flex;
+    color: #f2f2f2;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.menu :hover{
+    background-color: rgb(30, 138, 150);;
+}
